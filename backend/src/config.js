@@ -47,7 +47,7 @@ const LIMIT = 2; // Your API key rate limit
 const CHAIN = 'rinkeby'; // only rinkeby, polygon, or ethereum
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
-const CONTRACT_NAME = 'Trippy Donkeys';
+const CONTRACT_NAME = 'Trippy Donkey';
 const CONTRACT_SYMBOL = 'TD';
 const METADATA_UPDATABLE = false; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0xAB97d49CC407fd54e56ac520190C5ac44EE7694C';
